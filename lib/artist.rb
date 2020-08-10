@@ -2,7 +2,7 @@ require 'pry'
 
 class Artist
   extend Memorable
-  extend Findable
+  # extend Findable
   extend Paramable
 
   attr_accessor :name
