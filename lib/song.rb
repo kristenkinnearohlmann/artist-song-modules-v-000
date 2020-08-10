@@ -12,7 +12,8 @@ class Song
   @@songs = []
 
   # def initialize
-  #   @@songs << self
+  #   #@@songs << self
+  # # handled by memorable.rb
   # end
 
   def self.all
